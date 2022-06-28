@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-TGy%20Aldeen-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/TGyAlDeen/)](https://github.com/TGyAlDeen/) 
 
 
-<h3 align="center">BackEnd Engineer with ML/AI knowledge</h3>
+<h3 align="center">Software Engineer with ML/AI Background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TGyAlDeen" alt="TGy_AlDeen" /> </p>
 

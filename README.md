@@ -20,7 +20,3 @@
 <a href="https://twitter.com/TGy_AlDeen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="markko89" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tagy-aldeen-80214b91/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tagy-aldeen-80214b91/" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyaldeen&layout=compact" alt="tgyaldeen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tgyaldeen&show_icons=true" alt="tgyaldeen" /></p>

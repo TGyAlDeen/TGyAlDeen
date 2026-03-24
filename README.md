@@ -11,7 +11,7 @@
 
 - 💬 Talk to me about **Golang, Java, Deep learning & System design...**
 
-- 📫 How to reach me **t5_o@hotmail.com**
+- 📫 How to reach me **tagy.rec[_@_]gmail.com**
 - statistics below can't show private repos...
 
 

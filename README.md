@@ -1,6 +1,5 @@
 ## Hi 👋, This is Tagy Aldeen (تقي الدين)
-[![Microsoft Badge](https://img.shields.io/badge/-t5_o@hotmail.com-c14438?style=flat&logo=Microsoft&logoColor=white&link=mailto:t5_o@hotmail.com)](mailto:t5_o@hotmail.com) 
-[![Github Badge](https://img.shields.io/badge/-TGy%20Aldeen-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/TGyAlDeen/)](https://github.com/TGyAlDeen/) 
+
 
 
 <h3 align="center">Software Engineer with ML/AI Background</h3>
